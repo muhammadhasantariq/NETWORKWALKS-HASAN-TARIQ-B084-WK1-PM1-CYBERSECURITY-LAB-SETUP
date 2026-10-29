@@ -228,7 +228,7 @@ This lab is for education only. It runs on my own device and virtual network. I 
 # 👤 Author
 
 **Muhammad Hasan Tariq**\
-Cybersecurity Intern, Batch [YOUR BATCH]
+Cybersecurity Intern, Batch 84
 
 ---
 
