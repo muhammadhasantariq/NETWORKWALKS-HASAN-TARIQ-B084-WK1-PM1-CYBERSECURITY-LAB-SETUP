@@ -152,7 +152,7 @@ ping -c 4 google.com
 
 Result: `eth0` has **10.0.0.2/24**, and the ping got **4 of 4 replies with 0% packet loss**.
 
-![IP address and ping result](screenshots/04-ip-and-ping.png)
+![IP address and ping result](04-ip-and-ping.png)
 
 ---
 
@@ -160,7 +160,7 @@ Result: `eth0` has **10.0.0.2/24**, and the ping got **4 of 4 replies with 0% pa
 
 I took a VirtualBox snapshot called **"my fresh kali linux"** so I can restore the VM if a later exercise breaks something.
 
-![Snapshot list](screenshots/05-snapshot.png)
+![Snapshot list](05-snapshot.png)
 
 ---
 
@@ -228,7 +228,8 @@ This lab is for education only. It runs on my own device and virtual network. I 
 # 👤 Author
 
 **Muhammad Hasan Tariq**\
-Cybersecurity Intern, Batch 84
+Cybersecurity Intern, Batch 084
+LINKEDIN : www.linkedin.com/in/muhammad-hasan-tariq-873580236
 
 ---
 
