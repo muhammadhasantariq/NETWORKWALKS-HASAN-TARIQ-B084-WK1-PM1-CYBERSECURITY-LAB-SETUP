@@ -93,7 +93,7 @@ DHCP:        Enabled
 IPv6:        Disabled
 ```
 
-![NAT Network settings](screenshots/01-nat-network.png)
+!![NAT Network settings](01-nat-network.png)
 
 A NAT Network lets all VMs on it talk to each other and still reach the internet, which suits a multi-machine lab.
 
@@ -115,7 +115,7 @@ Adapter Type:     Intel PRO/1000 MT Desktop (82540EM)
 Promiscuous Mode: Allow All
 ```
 
-![Kali VM network settings](screenshots/02-vm-network.png)
+![Kali VM network settings](02-vm-network.png)
 
 ---
 
@@ -124,7 +124,7 @@ Promiscuous Mode: Allow All
 - **Settings → General → Advanced:** Shared Clipboard and Drag'n'Drop set to **Bidirectional**.
 - **Settings → Shared Folders:** my Mac's `Downloads` folder added with **Full** access and **Auto Mount** on.
 
-![Shared folder settings](screenshots/03-shared-folders.png)
+![Shared folder settings](03-shared-folders.png)
 
 ---
 
